@@ -1,0 +1,20 @@
+html {
+    box-sizing: border-box;
+}
+
+
+*,
+::after,
+::before {
+    box-sizing: inherit;
+}
+
+
+.bodyContainer {
+    background-color: rgb(220, 230, 228);
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    word-break: break-word;
+    text-align: justify;
+}
