@@ -26,13 +26,13 @@
 <body class="bodyContainer">
 
  <main class="mainContainer">
-  <header><h1 class="header">Task list</h1></header>
+  <header><h1>Task list</h1></header>
 
   <section class="section">
    <h2 class="section__header">Add new task</h2>
    <div class="section__body">
     <form class="form js-form">
-     <input class="form__input js-input" type="text" name="task">
+     <input class="form__input js-input" type="text" name="task" placeholder="Enter your task here" required>
      <button class="form__button">Enter task</button>
     </form>
    </div>
@@ -41,7 +41,9 @@
   <section class="section">
    <h2 class="section__header">Task list</h2>
    <div class="section__body">
-    <ul class="tasks js-list"></ul>
+    <ul class="tasks js-list">
+      <li class="tasks__item js-task"></li>
+    </ul>
    </div>
   </section>
  </main>
