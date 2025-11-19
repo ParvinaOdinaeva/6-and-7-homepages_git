@@ -1,5 +1,5 @@
 # To do list project
-## Demo: https://parvinaodinaeva.github.io/6---homepage_git/
+## Demo: https://parvinaodinaeva.github.io/6-and-7-homepages_git/
 ![to do list](https://i.postimg.cc/R0vCg7zJ/pobrane.jpg)
 
 ### Technologies used:
