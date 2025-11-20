@@ -5,10 +5,6 @@
 ### Technologies used:
 
 1. HTML
-2. CSS
-3. BEM convention
-4. Media quiries
-5. Grid
-6. Normalize.css
-7. JavaScript (arrow function)
-8. Array
+2. CSS (BEM convention, Media quiries, Grid, Transition)
+3. Normalize.css
+4. JavaScript (arrow function, array, immutability)
