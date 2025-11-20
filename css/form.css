@@ -23,11 +23,12 @@
     border: none;
     color: white;
     background-color: hsl(180, 90%, 26%);
+    transition: 1s;
 }
-
 
 .form__button:hover {
     background-color: hsl(180, 90%, 36%);
+    transform: scale(1.1);
 }
 
 

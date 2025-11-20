@@ -21,6 +21,7 @@
     width: 30px;
     height: 30px;
     padding: 0;
+    transition: 1s;
 }
 
 
@@ -36,6 +37,7 @@
 
 .tasks__button--done:hover {
     background: rgb(4, 204, 4);
+    transform: scale(1.1);
 } 
 
 .tasks__button--done:active {
@@ -50,8 +52,13 @@
 
 .tasks__button--remove:hover {
     background: rgb(202, 33, 3);
+    transform: scale(1.1);
 } 
 
 .tasks__button--remove:active {
    background: rgb(243, 40, 4);
 } 
+
+.tasks__item--hidden {
+    display: none;
+}
